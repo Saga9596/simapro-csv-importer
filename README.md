@@ -110,6 +110,7 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-Author: Your Name (youremail@example.com)
+Author: Sagar Siripuram (sagar.siripuram95@outlook.com)
 
-Repository: https://github.com/yourusername/simapro-lci-import-converter
+Repository: https://github.com/saga9596
+
